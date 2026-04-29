@@ -4,7 +4,5 @@ I'm Ben Heymink — a seasoned engineering lead with extensive experience managi
 
 - 🔭 I'm currently working as **Head of Software** at [BoldScience](https://www.boldscience.com), a global medical communications agency, where I blend high-science, AI, and next-generation software solutions for clients and partners.
 - 🌱 I'm currently focused on AI-driven software, cloud-native architectures, and serverless development on **AWS** and **Azure**.
-- 👯 I'm looking to collaborate on serverless, cloud, and SaaS projects.
 - 💬 Ask me about growing engineering teams from the first hire through scaling, SaaS product development, and serverless best practices.
 - 📫 How to reach me: [benheymink.com](https://www.benheymink.com) | [LinkedIn](https://www.linkedin.com/in/benheymink) | [Twitter](https://twitter.com/benheymink)
-- ⚡ Fun fact: I'm an avid scuba diver and active member of the [Newbury Scuba Diving Club](https://www.newburysub.co.uk).
