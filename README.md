@@ -6,3 +6,9 @@ I'm Ben Heymink — a seasoned engineering lead with extensive experience managi
 - 🌱 I'm currently focused on AI-driven software, cloud-native architectures, and serverless development on **AWS** and **Azure**.
 - 💬 Ask me about growing engineering teams from the first hire through scaling, SaaS product development, and serverless best practices.
 - 📫 How to reach me: [benheymink.com](https://www.benheymink.com) | [LinkedIn](https://www.linkedin.com/in/benheymink) | [Twitter](https://twitter.com/benheymink)
+
+### My apps:
+
+[Overdue: Simple recurring task tracker](https://apps.apple.com/us/app/overdue-keep-track/id6761727259)
+
+[Shuttletrack: Simple Badminton scoring for Apple Watch](https://apps.apple.com/us/app/shuttletrack/id6748066770)
